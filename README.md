@@ -1,9 +1,7 @@
 # RC Room Temperature Dashboard
 Custom dashboard for monitoring room temperatures for residental colleges, for CS3249 Assignment 4.
 
-// More details about the project here
-
-This project was created using Meteor, styled using Bootstrap.
+This project was created using Meteor, Dygraphs, React and Material UI.
 
 # Getting Started
 1. [Ensure you have Meteor installed](https://react-tutorial.meteor.com/simple-todos/01-creating-app.html#1-1-Install-Meteor)
